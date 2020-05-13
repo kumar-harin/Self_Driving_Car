@@ -90,8 +90,10 @@ then open the terminal and run the following command:
 
     python drive.py model-007.h5
     
-choose your best model.
+This is my best model.
+
 DON'T HIT ENTER YET!!!
+
 open the simulator and select autonomous mode and hit enter in the terminal
 
 and the SELF DRIVING CAR IS ACTIVATED!!!!
