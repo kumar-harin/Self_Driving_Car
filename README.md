@@ -50,7 +50,7 @@ TRAIN YOUR OWN MODEL:
 
 1)open beta_simulator.exe and select graphics settings(depends on your processor) , check out controls first and select training mode. hit R to start training....select a folder(new or existing) to save the training data(training data is basically your recorded gameplay)...and start driving ....drive like you drive in the real life as this will be recorded and used for the agent...drive around for about 6-10 times around the map.Hit R to stop recording and it will take few minutes to save the data
 
--training data(driving_log.csv) contains an excel sheets which has camera feed, which is fixed on front side of the car and its velocity, steering angle
+-training data(driving_log.csv) contains an excel sheets which records camera feed, which is fixed on front side of the car and its velocity, steering angle
 
 2)open ML Agent folder and open model.py and go to def main() function:
 
