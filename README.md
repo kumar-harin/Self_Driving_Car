@@ -63,7 +63,7 @@ This starts the training of the model...this takes 30min-8hrs....depends on your
 After this is done, a couple of model.h5 files are made in the directory...
 (model-00x.h5, the model with greatest x values is your best model)
 
-3)open drive.py and in if__name__ == '__main__':
+3)open drive.py and in if__name__ == " __main__ ":
 
 the first argparser argument is the location of your best model...type in the location
 then open the terminal and run the following command:
