@@ -4,9 +4,7 @@ Hi,
 
 This is Harin Kumar
 
-This self driving car is developed by using Machine Learning(ML) and not Artificial Intelligence(AI) . They have subtle differences.
-An ML Agent is developed by feeding it the training data and showing it the glimpses of how driving works.
-But an AI Agent is directly thrown into the world and it should figure out how driving works by experimenting and exploring.
+This self driving car is developed by using Artificial Intelligence. The AI agent learns to drive by analysing the camera feed given to it.
 
 This is the same process used by TESLA and NVIDIA to design self driving cars.But this process is less complex, takes less time and not as
 stable as their processes.
