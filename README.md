@@ -1,18 +1,8 @@
 This self driving car is developed by using Neural Networks. The AI agent learns to drive by analysing the camera feed given to it.
 
-This is the same process used by TESLA and NVIDIA to design self driving cars.But this process is less complex, takes less time and not as
-stable as their processes.
+This is the same process used by TESLA and NVIDIA to design self driving cars. But they train the cars in the real time and in real life.
 
-We start off by making a Neural Network, which is basically a bunch of perceptrons connected to one another. A Perceptron is an Artificial Neuron.So, technically, Neural Network is an Artificial Brain.
-
-NOTE: BASIC KNOWLEDGE OF PYTHON AND MACHINE LEARNING IS REQUIRED.
-
-I think its obvious, works only on pc.
-
-first off, download python version 3.5.2 from official website https://www.python.org/downloads/release/python-352/ using this link.
-Download the executable installer for your OS and install it.
-
-then open the terminal and execute the followning commands(hit "ENTER" to execute):
+Required package:
 
     pip3 install numpy
     pip3 install matplotlib
@@ -32,13 +22,7 @@ then open the terminal and execute the followning commands(hit "ENTER" to execut
     pip3 install tensorflow==1.1
     pip3 install keras==1.2
     
--Git clone or download this repo into your pc
-
--Simulator folder contains the car simulator/game
-
--ML Agent folder contains the ML code required
-
-
+    
 IF YOU WANT TO MAKE YOUR OWN MODEL DO THE FOLLOWING STEPS OR IF YOU WANT TO DIRECTLY GET INTO SELF DRIVING SCROLL DOWN TO DIRECT SELF DRIVE SECTION:
 
 TRAIN YOUR OWN MODEL:
