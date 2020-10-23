@@ -2,7 +2,7 @@ This self driving car is developed by using Neural Networks. The AI agent learns
 
 This is the same process used by TESLA and NVIDIA to design self driving cars. But they train the cars in the real time and in real life.
 
-Required package:
+Required packages:
 
     pip3 install numpy
     pip3 install matplotlib
